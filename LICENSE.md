@@ -1,4 +1,4 @@
-# 
+# VIP AI Music Generator with LSTM 扩展。集成 目标检测 和 预测分析，性能最大化。
 
 
 
